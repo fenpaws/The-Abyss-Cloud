@@ -4,7 +4,7 @@ tags:
 date created: Saturday, December 17th 2022, 9:24:54 pm
 date modified: Monday, December 19th 2022, 3:48:24 pm
 ---
-# The Abyss Cloud Cluster
+# The Abyss Cloud
 
 ## Preface - TL;DR
 
